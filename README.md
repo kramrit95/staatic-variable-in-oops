@@ -1,0 +1,1 @@
+# staatic-variable-in-oops
